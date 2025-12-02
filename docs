@@ -1,0 +1,3 @@
+Prompt/Ação: "Gerar classe Facade que orquestre os subsistemas de Estoque, Pagamento e Remessa."
+
+Ajuste: "Adição de mensagens de log (System.out.println) para deixar o fluxo claro no terminal e lógica de verificação (if/else) para garantir que o envio só ocorra se o pagamento for aprovado."
